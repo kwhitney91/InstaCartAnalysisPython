@@ -24,9 +24,11 @@ How do customer demograhics, including location, purchasing power and brand loya
 The insights derived from this analysis will cater to:
 
 The Vice President of Marketing
+
 The Senior Vice President of Sales
+
 Instacart Customers
-With teh goal of aligning marketing strategies with customer preferences to increase growth and revenue within Instacart.
+With the goal of aligning marketing strategies with customer preferences to increase growth and revenue within Instacart.
 
  # Final Deliverable
 
