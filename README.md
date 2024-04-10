@@ -17,7 +17,7 @@ Which products and departments are most popular on instacart?
 
 How do customer demograhics, including location, purchasing power and brand loyalty vary, adn how can that knowledge be used to increase revenue?
 
-# Data Source- Link data source here!
+
 
 # Stakeholders
 
