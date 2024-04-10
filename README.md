@@ -32,7 +32,7 @@ With the goal of aligning marketing strategies with customer preferences to incr
 
  # Final Deliverable
 
- Insert folder with the data and python code here!
+ See attached folder for code and analysis
 
- AS you can see, this work both analizes current trends adn predicts future customer behaviors, helping to ensure Instcart continues to grow and understand its customers.
+ As you can see, this work both analizes current trends adn predicts future customer behaviors, helping to ensure Instcart continues to grow and understand its customers.
 
